@@ -1,4 +1,4 @@
-# Retail Sales Analysis Using Tableau and Python
+# Retail Sales Analysis Using Python and Tableau
 
 ## Overview
 This project provides an in-depth analysis of retail sales data to uncover actionable business insights. Using Python for data preprocessing and Tableau for visualization, the project covers key aspects of Exploratory Data Analysis (EDA) and interactive dashboard creation. The dataset used was sourced from Kaggle and contains customer demographics, purchase amounts, and transaction details.

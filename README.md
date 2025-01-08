@@ -35,7 +35,7 @@ This project provides an in-depth analysis of retail sales data to uncover actio
 - **Python**: Data preprocessing and feature engineering.  
   - Libraries: `pandas`, `matplotlib`, `seaborn`.  
 - **Tableau**: Interactive dashboard creation.  
-- **Dataset**: Retail sales data from Kaggle.  
+- **Dataset**: Retail sales data from https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset. 
 
 ---
 
